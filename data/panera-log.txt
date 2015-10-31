@@ -1,1 +1,5 @@
-tomato	3tomato	3
+onion	3
+tomato	5
+pineapple	1
+pineapple	12015-10-31 13:23:26.217209
+pineapple	1	2015-10-31 13:23:51.284249
