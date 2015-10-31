@@ -1,5 +1,6 @@
 # Next Steps
 
+ - Learn basic Git usage
  - File input/output
  - Store dict values as input file
  - Identify why line breaks were removed after commit in [log file](data/panera-log.txt)
